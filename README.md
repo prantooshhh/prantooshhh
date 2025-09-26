@@ -14,9 +14,20 @@
 - 🔭 I'm currently working on **exciting projects** that challenge me to grow
 - 🌱 I'm continuously learning new technologies and best practices
 - 👯 I'm looking to collaborate on **open source projects** and innovative solutions
-- 💬 Ask me about **software development, coding practices, and tech trends**
-- 📫 How to reach me: **prantooshhh@example.com** (Update with your actual email)
-- ⚡ Fun fact: I believe every bug is just an undiscovered feature! 🐛➡️✨
+- 📫 How to reach me: **sajidhossain7734@gmail.com**
+- ⚡ Fun fact: Learn to understand bugs!!! Otherwise you won't know what you're looking for!!!
+
+---
+
+---
+
+## 🗂️ My Projects
+
+### Abbreviator
+- An application I developed for my brother for his military abbreviation tasks. [PRIVATE: CONFIDENTIAL]
+
+### Paranoia
+- A LAN multiplayer horror survival game. Developed with two other teammates. The game is now in a working state but requires some polishing. [PRIVATE: UNDER CONSTRUCTION]
 
 ---
 
