@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Prantosh!;Welcome+to+my+GitHub+Profile!;Software+Developer+%26+Tech+Enthusiast;Always+Learning+Something+New!&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+prantooshhh!;Welcome+to+my+GitHub+Profile!;Software+Developer+%26+Tech+Enthusiast;Always+Learning+Something+New!&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22">
 </div>
 
 <div align="center">
-  <h2>Hi there! I'm Prantosh 👋</h2>
+  <h2>Hi there! I'm prantooshhh 👋</h2>
   <p><em>Passionate Developer | Problem Solver | Continuous Learner</em></p>
 </div>
 
@@ -15,7 +15,7 @@
 - 🌱 I'm continuously learning new technologies and best practices
 - 👯 I'm looking to collaborate on **open source projects** and innovative solutions
 - 💬 Ask me about **software development, coding practices, and tech trends**
-- 📫 How to reach me: **prantosh@example.com** (Update with your actual email)
+- 📫 How to reach me: **prantooshhh@example.com** (Update with your actual email)
 - ⚡ Fun fact: I believe every bug is just an undiscovered feature! 🐛➡️✨
 
 ---
@@ -93,7 +93,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prantosh@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prantooshhh@example.com)
 
 </div>
 
